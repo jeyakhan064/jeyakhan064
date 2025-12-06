@@ -31,8 +31,3 @@ I enjoy experimenting with new models, building intelligent systems, and working
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=javeria-younus&show_icons=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javeria-younus&layout=compact" />
-</p>
