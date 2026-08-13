@@ -11,7 +11,7 @@
 
 ### 👩‍💻 About Me
 AI & ML developer with experience in **computer vision**, **deep learning**, and **LLM-powered applications**.  
-I enjoy experimenting with new models, building intelligent systems, and working on real-world datasets — from CV pipelines to RAG agents.
+I enjoy experimenting with new models, building intelligent systems, and working on real-world datasets, from CV pipelines to RAG agents.
 
 ---
 
